@@ -96,5 +96,5 @@ Based on the identified customer segments, we recommended developing targeted tr
 - Leverage data-driven targeting to improve engagement
 
 ## Tools & Technologies
-- R (tidyverse, cluister, caret, fatocoextra, GGally
+- R (tidyverse, cluster, caret, fatocoextra, GGally
 - Data Visualization (corrplot, plotly)
