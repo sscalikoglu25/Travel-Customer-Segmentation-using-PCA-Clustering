@@ -4,6 +4,7 @@
 ## Project Overview
 This project analyzes user-generated travel ratings to identify distinct customer segments and inform targeted marketing strategies for a U.S.-based travel company, Travelbiz. Using dimensionality reduction and clustering techniques, the analysis uncovers behavioral patterns in how users rate European travel experiences and translates these insights into actionable business recommendations.
 
+## Contributors Serhat Calikoglu, Connor Holland, Kathryn McCarthy, Posy Olivetti
 ## Objective
 The goal of this project is to:
 - Identify customer segments based on travel preferences
